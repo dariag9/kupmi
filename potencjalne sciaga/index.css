@@ -1,0 +1,525 @@
+.mediaViewInfo {
+	--web-view-name: strona glowna;
+	--web-view-id: strona_glowna;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: strona_glowna;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#strona_glowna {
+	position: absolute;
+	width: 1920px;
+	height: 2160px;
+	background-color: rgba(151,139,203,1);
+	overflow: hidden;
+	--web-view-name: strona glowna;
+	--web-view-id: strona_glowna;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_6 {
+	fill: rgba(243,246,151,1);
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 967.471px;
+	height: 819.91px;
+	left: -281.876px;
+	top: -199.91px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8 {
+	fill: rgba(151,139,203,1);
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 1088px;
+	left: 0px;
+	top: 1072px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4 {
+	fill: rgba(126,227,160,1);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1371px;
+	height: 1371px;
+	left: 952px;
+	top: 167px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_3__3 {
+	position: absolute;
+	width: 925px;
+	height: 74px;
+	left: 418.294px;
+	top: 36px;
+	overflow: visible;
+}
+#kupmipl_b {
+	left: 0px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(151,139,203,1);
+}
+#Component_1__1_b {
+	position: absolute;
+	width: 585.45px;
+	height: 30px;
+	left: 269.55px;
+	top: 22px;
+	overflow: visible;
+}
+#o_nas_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: o_nas.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#jak_to_dziaa_b {
+	left: 123.45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: jak_dziala.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#docz_b {
+	left: 328.899px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: dolacz.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#moje_konto_b {
+	left: 452.45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: zaloguj_sie.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Line_3_b {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3_b {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 74px;
+	left: 925px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_3 {
+	fill: rgba(126,227,160,1);
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	height: 88px;
+	left: 239px;
+	top: 258px;
+}
+#Icon_awesome-caret-down_b {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-caret-down_b {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 62.944px;
+	height: 43.351px;
+	left: 929.528px;
+	top: 1014.478px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_9__2 {
+	position: absolute;
+	width: 1309px;
+	height: 373.999px;
+	left: 266px;
+	top: 374px;
+	overflow: visible;
+}
+#wymarzony_ {
+	filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.161));
+	left: 0px;
+	top: 40px;
+	position: absolute;
+	overflow: hidden;
+	width: 787px;
+	height: 155px;
+	text-align: right;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(255,255,255,1);
+	text-decoration: line-through line-through;
+}
+#nieudany {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 328px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 459px;
+	height: 55px;
+	text-align: right;
+	font-family: Utopia Std Headline;
+	text-decoration: line-through;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(255,255,255,1);
+}
+#prezent {
+	filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.161));
+	left: 827px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 452px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(255,255,255,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 267.999px;
+	height: 80.999px;
+	left: 194px;
+	top: 293px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: dolacz.html;
+	cursor: pointer;
+}
+#Subtraction_1 {
+	fill: rgba(255,255,255,1);
+}
+.Subtraction_1 {
+	filter: drop-shadow(0px 5px 7px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 288.999px;
+	height: 101.999px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#dla_bliskiej_osoby_jest_w_zasi {
+	transform: translate(0px, 0px) matrix(1,0,0,1,51,169) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1259px;
+	height: 186px;
+	text-align: right;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_2 {
+	fill: rgba(243,246,151,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	height: 333px;
+	left: 1663px;
+	top: 110px;
+}
+#Ellipse_4 {
+	fill: rgba(126,227,160,1);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 666px;
+	height: 666px;
+	left: 0px;
+	top: 1438px;
+}
+#Path_7 {
+	fill: rgba(126,227,160,1);
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 949.742px;
+	height: 803.812px;
+	transform: matrix(1,0,0,1,-350.8707,840.8764) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_5 {
+	fill: rgba(255,255,255,1);
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 585.084px;
+	left: 0px;
+	top: 1321.824px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#szukam_prezentu_dla_ {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 396.5px;
+	top: 1515.5px;
+	position: absolute;
+	overflow: visible;
+	width: 518px;
+	height: 45px;
+	text-align: right;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(151,139,203,1);
+}
+#n_Kupmipl__2022_cm {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 866px;
+	top: 2123px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 37px;
+	text-align: right;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Kupmipl_1 {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 73.633px;
+	height: 73.633px;
+	left: 312.649px;
+	top: 36px;
+	overflow: visible;
+}
+#Icon_awesome-facebook-square_co {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook-square_co {
+	overflow: visible;
+	position: absolute;
+	width: 42px;
+	height: 42.578px;
+	left: 1407.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-instagram_cp {
+	fill: rgba(255,255,255,1);
+}
+.Icon_simple-instagram_cp {
+	overflow: visible;
+	position: absolute;
+	width: 42.443px;
+	height: 43.026px;
+	left: 1498.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-email_cq {
+	fill: rgba(255,255,255,1);
+}
+.Icon_material-email_cq {
+	overflow: visible;
+	position: absolute;
+	width: 55.345px;
+	height: 43.026px;
+	left: 1585.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_yellow_cr {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 426.756px;
+	height: 426.756px;
+	left: 1054px;
+	top: 1622.65px;
+	overflow: visible;
+}
+#logo_yellow_cs {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 426.756px;
+	height: 426.756px;
+	left: 1225px;
+	top: 1347.122px;
+	overflow: visible;
+}
+#logo_yellow_ct {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 426.756px;
+	height: 426.756px;
+	left: 1395px;
+	top: 1072px;
+	overflow: visible;
+}
+#logo_yellow_cu {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 426.756px;
+	height: 426.756px;
+	left: 1438.378px;
+	top: 1657.156px;
+	overflow: visible;
+}
+#logo_yellow_cv {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 426.756px;
+	height: 426.756px;
+	left: 1621.256px;
+	top: 1359.65px;
+	overflow: visible;
+}
+#logo_yellow_cw {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 426.756px;
+	height: 426.756px;
+	left: 1796px;
+	top: 1072px;
+	overflow: visible;
+}
+#logo_yellow_cx {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 426.756px;
+	height: 426.756px;
+	left: 1851px;
+	top: 1644.688px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(126,227,160,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 964px;
+	height: 268px;
+	left: 1151px;
+	top: 1053.824px;
+}
+#Rectangle_2 {
+	fill: rgba(151,139,203,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1103px;
+	height: 197px;
+	left: 921px;
+	top: 1907px;
+}

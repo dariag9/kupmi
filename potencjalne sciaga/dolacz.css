@@ -1,0 +1,397 @@
+.mediaViewInfo {
+	--web-view-name: dolacz;
+	--web-view-id: dolacz;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: dolacz;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#dolacz {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(151,139,203,1);
+	overflow: hidden;
+	--web-view-name: dolacz;
+	--web-view-id: dolacz;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_10_dz {
+	fill: rgba(243,246,151,1);
+}
+.Path_10_dz {
+	overflow: visible;
+	position: absolute;
+	width: 641.07px;
+	height: 492.66px;
+	transform: matrix(1,0,0,1,1345.999,657.7593) rotate(176deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_14 {
+	fill: rgba(243,246,151,1);
+}
+.Ellipse_14 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 533px;
+	left: 481px;
+	top: 480px;
+}
+#Path_15 {
+	fill: rgba(126,227,160,1);
+}
+.Path_15 {
+	overflow: visible;
+	position: absolute;
+	width: 1223.01px;
+	height: 724.964px;
+	left: 348.495px;
+	top: 165.126px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14 {
+	fill: rgba(151,139,203,1);
+}
+.Path_14 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_3__5 {
+	position: absolute;
+	width: 923px;
+	height: 74px;
+	left: 418.295px;
+	top: 36px;
+	overflow: visible;
+}
+#kupmipl_d {
+	left: 0px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Component_1__1_d {
+	position: absolute;
+	width: 585.45px;
+	height: 30px;
+	left: 267.551px;
+	top: 22px;
+	overflow: visible;
+}
+#o_nas_d {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: o_nas.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#jak_to_dziaa_d {
+	left: 123.449px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: jak_dziala.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#docz_d {
+	left: 328.899px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#moje_konto_d {
+	left: 452.449px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: zaloguj_sie.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Line_3_ea {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3_ea {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 74px;
+	left: 923px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook-square_eb {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook-square_eb {
+	overflow: visible;
+	position: absolute;
+	width: 42px;
+	height: 42.578px;
+	left: 1407.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-instagram_ec {
+	fill: rgba(255,255,255,1);
+}
+.Icon_simple-instagram_ec {
+	overflow: visible;
+	position: absolute;
+	width: 42.442px;
+	height: 43.026px;
+	left: 1498.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-email_ed {
+	fill: rgba(255,255,255,1);
+}
+.Icon_material-email_ed {
+	overflow: visible;
+	position: absolute;
+	width: 53.644px;
+	height: 43.026px;
+	left: 1585.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_bialy_ee {
+	position: absolute;
+	width: 73.63px;
+	height: 73.63px;
+	left: 312.6px;
+	top: 36px;
+	overflow: visible;
+}
+#Cieszymy_si_e_chcesz_doczy_do_ {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 418px;
+	top: 216px;
+	position: absolute;
+	overflow: visible;
+	width: 1050px;
+	height: 96px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 43px;
+	color: rgba(255,255,255,1);
+}
+#Component_13__1 {
+	position: absolute;
+	width: 596px;
+	height: 616px;
+	left: 662px;
+	top: 328px;
+	overflow: visible;
+}
+#Path_16 {
+	fill: rgba(255,255,255,1);
+}
+.Path_16 {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 614px;
+	height: 634px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Exclusion_1 {
+	fill: rgba(151,139,203,1);
+}
+.Exclusion_1 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 278px;
+	height: 80.001px;
+	left: 168.499px;
+	top: 492.501px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: biogram.html;
+	cursor: pointer;
+}
+#twoje_imi {
+	left: 210px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	height: 30px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+}
+form {   
+	border: none;
+	left: -123px;
+	top: 0px;
+	position: absolute;  
+}   
+input[type=text], input[type=password],  input[type=mail] {   
+	width: 350px;   
+	height:60px;
+	margin: 40px 20px;  
+	padding: 6px 15px;   
+	display: inline-block;   
+	border: none;  
+	box-sizing: border-box;  
+	text-align: center;
+} 
+
+.container {   
+	padding: 25px;    
+}   
+#twj_nick {
+	left: 206px;
+	top: 193px;
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	height: 30px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+}
+#twj_e-mail {
+	left: 200px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 198px;
+	height: 30px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+}
+#n_Kupmipl__2022_em {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 866px;
+	top: 1043px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 37px;
+	text-align: right;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Path_21_en {
+	fill: rgba(126,227,160,1);
+}
+.Path_21_en {
+	overflow: visible;
+	position: absolute;
+	width: 1546.719px;
+	height: 330.222px;
+	transform: matrix(1,0,0,1,-854.0051,545.9573) rotate(52deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}

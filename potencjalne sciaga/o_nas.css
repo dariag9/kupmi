@@ -1,0 +1,617 @@
+.mediaViewInfo {
+	--web-view-name: o nas;
+	--web-view-id: o_nas;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: o_nas;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#o_nas {
+	position: absolute;
+	width: 1920px;
+	height: 2160px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: o nas;
+	--web-view-id: o_nas;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_4 {
+	fill: rgba(151,139,203,1);
+}
+.Rectangle_4 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 157px;
+	left: 0px;
+	top: 0px;
+}
+#Component_3__2 {
+	position: absolute;
+	width: 923px;
+	height: 74px;
+	left: 418.294px;
+	top: 36px;
+	overflow: visible;
+}
+#kupmipl {
+	left: 0px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Component_1__1 {
+	position: absolute;
+	width: 585.45px;
+	height: 30px;
+	left: 267.55px;
+	top: 22px;
+	overflow: visible;
+}
+#o_nas_p {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#jak_to_dziaa_q {
+	left: 123.45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: jak_dziala.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#docz_r {
+	left: 328.899px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: dolacz.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#moje_konto {
+	left: 452.45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: zaloguj_sie.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 74px;
+	left: 923px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook-square {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook-square {
+	overflow: visible;
+	position: absolute;
+	width: 42px;
+	height: 42.578px;
+	left: 1407.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-instagram {
+	fill: rgba(255,255,255,1);
+}
+.Icon_simple-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 42.442px;
+	height: 43.026px;
+	left: 1498.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-email {
+	fill: rgba(255,255,255,1);
+}
+.Icon_material-email {
+	overflow: visible;
+	position: absolute;
+	width: 53.644px;
+	height: 43.026px;
+	left: 1585.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_bialy {
+	position: absolute;
+	width: 73.63px;
+	height: 73.63px;
+	left: 312.6px;
+	top: 32.685px;
+	overflow: visible;
+}
+#logo_fiolet {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 220px;
+	height: 220px;
+	left: 850px;
+	top: 404px;
+	overflow: visible;
+}
+#wizja {
+	left: 891px;
+	top: 696px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 50px;
+	text-align: left;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(151,139,203,1);
+}
+#Dziki_naszej_stronie_nigdy_wic {
+	left: 665px;
+	top: 764px;
+	position: absolute;
+	overflow: visible;
+	width: 592px;
+	height: 74px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+}
+#historia {
+	left: 1264px;
+	top: 427px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 50px;
+	text-align: left;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(151,139,203,1);
+}
+#Jestemy_prnie_rozwijajc_si_fir {
+	left: 1088px;
+	top: 488px;
+	position: absolute;
+	overflow: visible;
+	width: 576px;
+	height: 162px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+}
+#misja {
+	left: 479px;
+	top: 427px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 50px;
+	text-align: left;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(151,139,203,1);
+}
+#Tworzymy_najbardziej_przyjazne {
+	left: 264px;
+	top: 488px;
+	position: absolute;
+	overflow: visible;
+	width: 569px;
+	height: 74px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+}
+#Path_9 {
+	fill: rgba(151,139,203,1);
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 2528.931px;
+	height: 1284.871px;
+	left: -21.512px;
+	top: 925.921px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Wspwacicielka {
+	left: 1167px;
+	top: 1682px;
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	height: 30px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+}
+#o_nas_ {
+	filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.161));
+	left: 850px;
+	top: 257px;
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	height: 75px;
+	text-align: center;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(151,139,203,1);
+}
+#n_Kupmipl__2022 {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 866px;
+	top: 2123px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 37px;
+	text-align: right;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_7 {
+	fill: rgba(126,227,160,1);
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 492px;
+	height: 492px;
+	left: 1636px;
+	top: 1780px;
+}
+#Ellipse_10 {
+	fill: rgba(243,246,151,1);
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 386px;
+	height: 386px;
+	left: 194px;
+	top: 1181px;
+}
+#Ellipse_9 {
+	fill: rgba(243,246,151,1);
+}
+.Ellipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 487px;
+	height: 466px;
+	left: 1323px;
+	top: 715px;
+}
+#Jestemy_firm_zarzdzan_przez_ko {
+	left: 1395px;
+	top: 850px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	height: 196px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Component_12__2 {
+	position: absolute;
+	width: 472px;
+	height: 545px;
+	left: 1042px;
+	top: 1398px;
+	overflow: visible;
+}
+#Path_22 {
+	fill: rgba(255,255,255,1);
+}
+.Path_22 {
+	filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 490px;
+	height: 563px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dyrektor_ds_Marketingu {
+	left: 91px;
+	top: 258px;
+	position: absolute;
+	overflow: visible;
+	width: 292px;
+	height: 30px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+	text-transform: lowercase;
+}
+#tworzenie_polityki_marketingow {
+	left: 70px;
+	top: 300px;
+	position: absolute;
+	overflow: visible;
+	width: 334px;
+	height: 172px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+}
+#Ellipse_8 {
+	fill: rgba(126,227,160,1);
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	height: 227px;
+	left: 1187px;
+	top: 967px;
+}
+#Path_10 {
+	fill: rgba(126,227,160,1);
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 641.07px;
+	height: 492.66px;
+	left: -60.781px;
+	top: 139px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#to_my {
+	filter: drop-shadow(0px 6px 8px rgba(0, 0, 0, 0.161));
+	left: 606px;
+	top: 1213px;
+	position: absolute;
+	overflow: visible;
+	width: 709px;
+	height: 55px;
+	text-align: center;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(255,255,255,1);
+}
+#Component_12__1 {
+	position: absolute;
+	width: 472px;
+	height: 545px;
+	left: 430px;
+	top: 1398px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_5 {
+	filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 563px;
+	left: 0px;
+	top: 0px;
+}
+#Dyrektor_ds_Informatyki {
+	left: 91px;
+	top: 258px;
+	position: absolute;
+	overflow: visible;
+	width: 292px;
+	height: 30px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+	text-transform: lowercase;
+}
+#zarzdzanie_i_organizacja_pracy {
+	left: 70px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 334px;
+	height: 221px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(151,139,203,1);
+}
+#Path_11 {
+	fill: rgba(126,227,160,1);
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 862.717px;
+	height: 702.727px;
+	transform: matrix(1,0,0,1,-269.8354,1644.2085) rotate(11deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#logo_yellow {
+	position: absolute;
+	width: 285.719px;
+	height: 285.719px;
+	left: 1579px;
+	top: 1776.141px;
+	overflow: visible;
+}
+#logo_white {
+	position: absolute;
+	width: 209.785px;
+	height: 209.785px;
+	left: 56.631px;
+	top: 1163.108px;
+	overflow: visible;
+}
+#bizneswoman2 {
+	position: absolute;
+	width: 166px;
+	height: 166px;
+	left: 583px;
+	top: 1446px;
+	overflow: visible;
+}
+#bizneswoman2_bs {
+	position: absolute;
+	width: 166px;
+	height: 166px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#bizneswoman {
+	position: absolute;
+	width: 168px;
+	height: 169px;
+	left: 1194px;
+	top: 1446px;
+	overflow: visible;
+}
+#Icon_awesome-caret-down {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-caret-down {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 62.944px;
+	height: 43.351px;
+	left: 929.528px;
+	top: 1014.478px;
+	transform: matrix(1,0,0,1,0,0);
+}

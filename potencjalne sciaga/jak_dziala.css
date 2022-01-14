@@ -1,0 +1,462 @@
+.mediaViewInfo {
+	--web-view-name: jak to dziala;
+	--web-view-id: jak_to_dziala;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: jak_to_dziala;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#jak_to_dziala {
+	position: absolute;
+	width: 1920px;
+	height: 2160px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: jak to dziala;
+	--web-view-id: jak_to_dziala;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_17 {
+	fill: rgba(151,139,203,1);
+}
+.Path_17 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_3__4 {
+	position: absolute;
+	width: 923px;
+	height: 74px;
+	left: 418.295px;
+	top: 36px;
+	overflow: visible;
+}
+#kupmipl_c {
+	left: 0px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Component_1__1_c {
+	position: absolute;
+	width: 585.45px;
+	height: 30px;
+	left: 267.55px;
+	top: 22px;
+	overflow: visible;
+}
+#o_nas_c {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: o_nas.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#jak_to_dziaa_c {
+	left: 123.45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#docz_c {
+	left: 328.899px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: dolacz.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#moje_konto_c {
+	left: 452.45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: zaloguj_sie.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Line_3_da {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3_da {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 74px;
+	left: 923px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook-square_db {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook-square_db {
+	overflow: visible;
+	position: absolute;
+	width: 42px;
+	height: 42.578px;
+	left: 1407.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-instagram_dc {
+	fill: rgba(255,255,255,1);
+}
+.Icon_simple-instagram_dc {
+	overflow: visible;
+	position: absolute;
+	width: 42.442px;
+	height: 43.026px;
+	left: 1498.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-email_dd {
+	fill: rgba(255,255,255,1);
+}
+.Icon_material-email_dd {
+	overflow: visible;
+	position: absolute;
+	width: 52.499px;
+	height: 43.026px;
+	left: 1585.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_bialy_de {
+	position: absolute;
+	width: 73.63px;
+	height: 73.63px;
+	left: 311.6px;
+	top: 32.685px;
+	overflow: visible;
+}
+#Path_12 {
+	fill: rgba(151,139,203,1);
+}
+.Path_12 {
+	filter: drop-shadow(7px 7px 8px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 2058.025px;
+	height: 2089.424px;
+	left: -33.025px;
+	top: 108.429px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 774px;
+	top: 396px;
+	position: absolute;
+	overflow: visible;
+	width: 144px;
+	height: 100px;
+	text-align: center;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(151,139,203,1);
+}
+#Path_19 {
+	fill: rgba(243,246,151,1);
+}
+.Path_19 {
+	filter: drop-shadow(0px 6px 7px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 521px;
+	height: 503px;
+	left: 45px;
+	top: 205px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#jak_to_dziaa_di {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 132px;
+	top: 374px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	height: 144px;
+	text-align: center;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#n__dj {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 109px;
+	top: 959px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 100px;
+	text-align: center;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(255,255,255,1);
+}
+#n__dk {
+	left: 1586px;
+	top: 1038px;
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	height: 140px;
+	text-align: center;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 140px;
+	color: rgba(255,255,255,1);
+}
+#Path_18 {
+	fill: rgba(126,227,160,1);
+}
+.Path_18 {
+	filter: drop-shadow(0px 7px 5px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 858px;
+	height: 858px;
+	left: 1158px;
+	top: 637px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n__dm {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1490px;
+	top: 804px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 100px;
+	text-align: center;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_13 {
+	fill: rgba(243,246,151,1);
+}
+.Ellipse_13 {
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 174px;
+	left: 1704px;
+	top: 656px;
+}
+#n__do {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 348px;
+	top: 1586px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	height: 100px;
+	text-align: center;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(151,139,203,1);
+}
+#Path_21 {
+	fill: rgba(126,227,160,1);
+}
+.Path_21 {
+	overflow: visible;
+	position: absolute;
+	width: 2084.244px;
+	height: 630.845px;
+	left: -32.762px;
+	top: 1712px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_20 {
+	fill: rgba(243,246,151,1);
+}
+.Path_20 {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 2203.562px;
+	height: 527.925px;
+	left: -32.762px;
+	top: 1787.375px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_Kupmipl__2022_dr {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 866px;
+	top: 2123px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 37px;
+	text-align: right;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#logo_violet {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 343.193px;
+	height: 343.193px;
+	left: 1369.812px;
+	top: 1514.779px;
+	overflow: visible;
+}
+#Ciesz_si_trafionym_prezentem_o {
+	left: 488px;
+	top: 1588px;
+	position: absolute;
+	overflow: visible;
+	width: 813px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(151,139,203,1);
+}
+#Od_teraz_dostp_do_Twojej_listy {
+	left: 1313px;
+	top: 928px;
+	position: absolute;
+	overflow: visible;
+	width: 547px;
+	height: 360px;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Za_konto_na_naszym_portalu_i_u {
+	left: 916px;
+	top: 396px;
+	position: absolute;
+	overflow: visible;
+	width: 723px;
+	height: 98px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(151,139,203,1);
+}
+#Stwrz_wish-list_wklej_do_niej_ {
+	left: 247px;
+	top: 953px;
+	position: absolute;
+	overflow: visible;
+	width: 863px;
+	height: 98px;
+	text-align: left;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
